@@ -1,6 +1,8 @@
 # Gif-buscador-app
 
-Es una aplicación la cual permite buscar el mejor gif para conversaciones ya sean whatsapp, facebook entre más, esta se conecta con la api de Giphup
+Es una aplicación la cual permite buscar el mejor gif para conversaciones ya sean whatsapp, facebook, entre más, esta se conecta con la api de Giphy Developers.
+
+Para acceder, hay una versión en producción alojada usando Github Pages, el enlace es: https://sebasgarcia20.github.io/gif-buscador-app/
 
 ## Instalación
 
